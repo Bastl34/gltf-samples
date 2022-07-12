@@ -4,6 +4,7 @@
 
 * https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Sponza
 * with some modifications
+* with glb export
 
 ## Screenshot
 
